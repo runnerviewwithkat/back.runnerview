@@ -1,13 +1,9 @@
-# Back Malltique
-
-Back Malltique is the backend for the Malltique project. This project provides an API for managing user data, product information, and other application elements. It is built with Python using Django and supports containerization through Docker.
-
 ## Project Structure
 
 - **app/**  
   Contains the core applications, including:  
   - `core/` — main logic and utilities of the project.  
-  - `product/` — product-related data management.  
+  - `episodes/` — episodes-related data management.  
   - `user/` — user-related data management.
 
 - **proxy/**  
